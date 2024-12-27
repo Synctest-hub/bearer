@@ -19,7 +19,7 @@ require (
 	github.com/open-policy-agent/opa v0.70.0
 	github.com/rodaine/table v1.3.0
 	github.com/rs/zerolog v1.33.0
-	github.com/russross/blackfriday v1.6.0
+	github.com/russross/blackfriday v2.0.0+incompatible
 	github.com/sabhiram/go-gitignore v0.0.0-20210923224102-525f6e181f06
 	github.com/schollz/progressbar/v3 v3.14.6
 	github.com/shirou/gopsutil/v3 v3.24.5
@@ -91,6 +91,7 @@ require (
 	github.com/sagikazarmark/locafero v0.4.0 // indirect
 	github.com/sagikazarmark/slog-shim v0.1.0 // indirect
 	github.com/shoenig/go-m1cpu v0.1.6 // indirect
+	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/sourcegraph/conc v0.3.0 // indirect
 	github.com/tklauser/go-sysconf v0.3.12 // indirect
